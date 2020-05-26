@@ -1,0 +1,12 @@
+.footer__link {
+  text-decoration: none;
+  margin-right: 18px;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.footer__link:hover {
+  color: #f52a1c;
+  transition: color 0.3s linear;
+}

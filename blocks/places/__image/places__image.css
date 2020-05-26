@@ -1,0 +1,11 @@
+.places__image {
+    max-width: 460px;
+    min-width: 320px;
+}
+
+
+@media screen and (min-width: 425px) and (max-width: 768px) {
+    .places__image {
+        width: 90%;
+    }
+  }

@@ -4,5 +4,6 @@
 @import url(../lead/__caption/lead__caption.css);
 
 .lead {
-    display: grid;
+  display: flex;
+  flex-direction: column;
 }

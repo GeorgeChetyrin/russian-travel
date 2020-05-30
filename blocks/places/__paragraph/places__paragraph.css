@@ -1,6 +1,23 @@
 .places__paragraph {
-    font-size: 18px;
-    font-weight: normal;
-    line-height: 1.5;
-    margin: 0 0 24px;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.5;
+  margin: 0 0 24px;
+  grid-area: text;
+}
+
+.places__paragraph:last-child {
+  margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .places__paragraph {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places__paragraph {
+    padding: 0 16px;
+  }
 }

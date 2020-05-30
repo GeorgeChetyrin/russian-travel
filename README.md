@@ -21,7 +21,13 @@
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 **Сайт на GitPages**
+<<<<<<< HEAD
 https://georgechetyrin.github.io/russian-travel/
 
+=======
+---------------------
+
+* [Ссылка на сайт на Gitpages] (https://georgechetyrin.github.io/russian-travel/)
+>>>>>>> 57e67548b600277a0dfc2a28dbdf070d546b14c1
 
 Удачи!

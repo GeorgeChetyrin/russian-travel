@@ -3,29 +3,17 @@
   font-weight: normal;
   line-height: 1.5;
   max-width: 690px;
-  margin: 40px 100px 0;
-}
-
-@media screen and (max-width: 1024px) {
-  .intro__text {
-    padding-left: 48px;
-    margin: 40px 0 0;
-  }
+  margin: 40px 0 32px;
 }
 
 @media screen and (max-width: 768px) {
   .intro__text {
-    padding-left: 24px;
-    margin: 40px 0 0;
     max-width: 720px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .intro__text {
-    padding: 0 16px;
-    margin: 40px 0 0;
     max-width: 320px;
   }
 }
-

@@ -1,0 +1,30 @@
+.lead__container {
+    max-width: 984px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+
+@media screen and (min-width: 1025px) and (max-width: 1280px) {
+    .lead__container {
+      width: 100%;
+      margin: 0 auto;
+    }
+  }
+  
+  @media screen and (min-width: 768px) and (max-width: 1024px) {
+    .lead__container {
+      width: 100%;
+      margin: 0 auto;
+      max-width: 928px;
+    }
+  }
+  
+  @media screen and (min-width: 320px) and (max-width: 767px) {
+    .lead__container {
+      width: 100%;
+      margin: 0 auto;
+    }
+  }
